@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BSP: gluegen-rt" external-system-id="BSP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

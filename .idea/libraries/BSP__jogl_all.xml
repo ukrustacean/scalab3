@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BSP: jogl-all" external-system-id="BSP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

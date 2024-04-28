@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BSP: core" external-system-id="BSP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
